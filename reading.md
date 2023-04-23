@@ -1,0 +1,11 @@
+Reading:
+- https://developer.hashicorp.com/terraform/tutorials/cdktf/cdktf-build
+- https://developer.hashicorp.com/terraform/cdktf/concepts/cdktf-architecture
+- https://developer.hashicorp.com/terraform/cdktf/concepts/constructs
+- https://developer.hashicorp.com/terraform/cdktf/concepts/stacks
+- https://developer.hashicorp.com/terraform/tutorials/cdktf/cdktf-build
+- https://github.com/OmarCloud20/CDKTF-Tutorial
+- https://developer.hashicorp.com/terraform/cdktf/concepts/remote-backends
+- https://dev.to/aws-builders/cdk-for-terraform-cdktf-on-aws-how-to-configure-an-s3-remote-backend-and-deploy-a-lambda-function-url-using-python-3okk
+- https://github.com/joerx/cdktf-s3-backend
+- https://docs.aws.amazon.com/cdk/api/v1/docs/core-readme.html

@@ -1,0 +1,14 @@
+{
+  "region": "",
+  "bucketName": "",
+  "dynamodbTableName": "",
+  "storeStateRemotely": false,
+  "stacksEnabled": {
+    "basic": false
+  },
+  "basicVpcCidrBlock": "",
+  "basicVpcName": "",
+  "basicStackEc2KeyName": "",
+  "myIpCidrBlocks": [
+  ]
+}
